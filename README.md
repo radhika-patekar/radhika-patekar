@@ -8,6 +8,30 @@ I enjoy exploring new technologies, developing meaningful projects and combining
 
 ---
 
+---
+
+<div align="center">
+
+## THE CREATIVE UNIVERSE
+
+**Where Technology Meets Creativity.**
+
+Building intelligent solutions, exploring creative ideas,  
+and transforming imagination into meaningful experiences.
+
+<br/>
+
+<img src="assets/creative-universe.svg" width="100%" alt="Radhika Patekar Creative Universe"/>
+
+<br/>
+
+`ARTIFICIAL INTELLIGENCE` &nbsp; · &nbsp; `CREATIVE DESIGN` &nbsp; · &nbsp; `INNOVATION`
+
+</div>
+
+---
+
+
 ### About Me
 
 - 🎓 B.E. in Artificial Intelligence & Data Science
